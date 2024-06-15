@@ -88,6 +88,9 @@
   color: #0d141e;
   line-height: 30px;
   }
+  .heritage-sec{
+    background-color: red;
+  }
   /* all-heading font size */
   h1{
   font-size: 32px;
